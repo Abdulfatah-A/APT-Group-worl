@@ -91,5 +91,12 @@ Describe your changes and submit for review.
 Contact Information
 If you have any questions or suggestions, feel free to reach out.
 
-GitHub: Abdulfatah Ali
+GitHub: 
+Abdulfatah Ali;
+samoita1999
+Latter-dev
+Keith-Kimani
+Mashariaisass
+Mashariaisass
+
 
